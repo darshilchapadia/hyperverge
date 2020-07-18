@@ -1,0 +1,23 @@
+{
+  "name": "hyperverge",
+  "version": "1.0.0",
+  "description": "Hyperverge Bus Ticket System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshilchapadia/hyperverge.git"
+  },
+  "keywords": [
+    "hyperverge",
+    "booking"
+  ],
+  "author": "Darshil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshilchapadia/hyperverge/issues"
+  },
+  "homepage": "https://github.com/darshilchapadia/hyperverge#readme"
+}
